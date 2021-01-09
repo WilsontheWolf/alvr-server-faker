@@ -1,0 +1,10 @@
+{
+  "name": "alvr-server-faker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "WilsontheWolf",
+  "dependencies": {
+    "ws": "^7.4.2"
+  }
+}
